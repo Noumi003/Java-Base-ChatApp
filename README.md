@@ -36,7 +36,7 @@ While the current implementation focuses on a basic messaging application, futur
 This Java-based conversation application serves as a foundation for understanding GUI development and event handling using Java Swing. The project allows for further expansion and enhancement to incorporate advanced features and functionalities. The proposed application provides a starting point for learning and exploring more complex Java applications in the future.
 
 **7. Acknowledgments:**
-This project was developed by Nouman Saeed Butt and Abdul Rafay Khan as part of a university course or personal learning journey. Acknowledgments go to the Java programming community and relevant educational resources that contributed to the development of this application.
+This project was developed by Nouman Saeed Butt and Abdul Rafay Khan as part of a university project. Acknowledgments go to the Java programming community and relevant educational resources that contributed to the development of this application.
 
 **8. Availability:**
 The complete source code for this project is available on [Noumi003/Java-Based-ChatApp], encouraging collaboration and further development within the programming community.
